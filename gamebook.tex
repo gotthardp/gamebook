@@ -1,0 +1,176 @@
+% Written by Petr Gotthard
+% Codepage ISO-8859-2
+
+%\nofiles
+\documentclass[10pt,twoside]{book}
+\author{Petr Gotthard}
+\title{Velká kniha her}
+
+\usepackage{geometry}
+\headheight=1.0cm
+\footskip=1.0cm
+\geometry{a4paper,twosideshift=0pt}
+\geometry{left=2.5cm,top=1.5cm,right=1.5cm,bottom=1.5cm}
+
+\usepackage[latin2]{inputenc}
+\usepackage[czech]{babel}
+
+\usepackage{multicol}
+\usepackage{ifthen}
+\usepackage[toc]{multitoc}
+\usepackage{tabularx}
+
+\ifx\pdfoutput\undefined
+  \usepackage[dvips]{graphicx} %pro DVI, obrázky *.EPS
+\else
+  \usepackage[pdftex]{graphicx} %pro PDF, obrázky *.JPG
+  \pdfinfo{
+    /Author (Petr Gotthard)
+    /CreationDate (D:20000615)
+    /ModDate (D:20000904)
+    /Creator (LaTeX)
+    /Producer (pdfLaTeX)
+    /Title (Velka kniha her)
+    /Subject (Zabavy a hry pro deti)
+    /Keywords (hry,hadanky,prislovi,logika,kouzla) }
+  \pdfcompresslevel=9
+\fi
+
+% O=lichá, E=sudá
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\fancyhead{} % clear all header fields
+\fancyhead[RE,LO]{Velká kniha her}
+\fancyhead[LE,RO]{\leftmark}
+\fancyfoot{} % clear all footer fields
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt} % top horizontal line
+\renewcommand{\footrulewidth}{0pt} % bottom horizontal line
+
+\vbadness=10000  % I don't want to hear about overfull vboxes
+
+\begin{document}
+\titlepage
+
+{\raggedleft
+\includegraphics{inflogo}\\[3 cm]
+}
+
+{\centering
+{
+ \fontfamily{phv}%
+ \fontsize{2 cm}{2.4 cm}%
+ \bfseries%
+ Velká kniha
+}\\[5mm]
+{
+ \fontfamily{phv}%
+ \fontsize{5.5 cm}{6.6 cm}%
+ \bfseries%
+ HER
+}\\[8.5cm]
+}
+
+Tento dokument byl sestaven z údajù soustøedìných na serveru
+Informaèník do \today. Kniha se stále rozrùstá, její nejaktuálnìj¹í
+podobu naleznete v¾dy na
+{\tt http://www.informacnik.cz}.
+I vy mù¾ete pøispìt! Své pøíspìvky, námìty a pøipomínky posílejte na adresu
+{\tt petr.gotthard@centrum.cz}.
+Tento dokument mù¾ete v jeho nezmìnìné podobì volnì pou¾ívat i dále ¹íøit. 
+Komerèní vyu¾ití je v¹ak zakázáno.
+Dokument je dodáván bez jakékoli záruky. Pou¾íváte jej na vlastní
+riziko.\\[1 cm]
+
+{\centering
+Sestavil Petr Gotthard\\
+Brno 1995 -- 2001\\
+}
+
+\cleardoublepage
+
+\renewcommand\multicolumntoc{2}
+\tableofcontents
+\cleardoublepage
+
+\renewcommand\Large{\fontfamily{phv}\fontsize{10}{12}\selectfont}
+\renewcommand\large{\fontfamily{phv}\fontsize{7}{8.4}\selectfont}
+%\renewcommand\normalsize{\fontfamily{ptm}\fontsize{7}{8.4}\selectfont}
+
+\newcounter{cohry}
+\newcounter{cokouzla}
+
+\newcommand{\nadpis}[2]{%
+ \vskip 3ex%
+ \addtocounter{#2}{1}%
+ \noindent%
+ {
+  \fontfamily{phv}%
+  \fontsize{7}{8.4}%
+  \bfseries%
+  \arabic{#2}.%
+  \hspace{1.5mm}#1%
+ }%
+ \nopagebreak%
+ \vskip 1ex%
+}
+
+\newenvironment{intabular}[1]{%
+ \noindent%
+ \begin{tabular}{#1}%
+}{%
+ \end{tabular}%
+}
+
+\newenvironment{intabularx}[1]{%
+ \noindent%
+ \tabularx{\columnwidth}{#1}%
+}{%
+ \endtabularx%
+}
+
+\newcommand{\napsal}[1]{%
+ \noindent%
+ {\em Napsal #1.}%
+}
+
+\chapter{Hry a soutì¾e}
+
+Na vzniku této kapitoly se podílela dlouhá øada osob. Pøehled pou¾itých
+publikací naleznete na stranì~\pageref{sec-litera}. Osobní podìkování si 
+zaslou¾í
+
+\begin{quote}
+ \tt
+ \input{authors}
+\end{quote}
+
+\cleardoublepage
+{
+ \fontfamily{ptm}\fontsize{7}{8.4}\selectfont
+ \include{hry}
+}
+\chapter{Pøílohy}
+\cleardoublepage
+{
+ \fontfamily{ptm}\fontsize{7}{8.4}\selectfont
+ \include{prhadanky}
+ \include{prislovi}
+ \include{prvedecka}
+ \include{prdetektiv}
+ \include{prlogika}
+ \include{prkvizy}
+ \include{prkouzla}
+ \include{prjazyk}
+ \include{prviteze}
+}
+{
+ \fontfamily{ptm}\fontsize{7}{8.4}\selectfont
+ \include{zaprameny}
+}
+\cleardoublepage
+
+\end{document}
+
+% End of file
