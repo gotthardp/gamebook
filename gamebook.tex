@@ -4,7 +4,7 @@
 %\nofiles
 \documentclass[10pt,twoside]{book}
 \author{Petr Gotthard}
-\title{Velká kniha her}
+\title{VelkÃ¡ kniha her}
 
 \usepackage{geometry}
 \headheight=1.0cm
@@ -12,7 +12,8 @@
 \geometry{a4paper,twosideshift=0pt}
 \geometry{left=2.5cm,top=1.5cm,right=1.5cm,bottom=1.5cm}
 
-\usepackage[latin2]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
 \usepackage[czech]{babel}
 
 \usepackage{multicol}
@@ -21,9 +22,9 @@
 \usepackage{tabularx}
 
 \ifx\pdfoutput\undefined
-  \usepackage[dvips]{graphicx} %pro DVI, obrázky *.EPS
+  \usepackage[dvips]{graphicx} %pro DVI, obrÃ¡zky *.EPS
 \else
-  \usepackage[pdftex]{graphicx} %pro PDF, obrázky *.JPG
+  \usepackage[pdftex]{graphicx} %pro PDF, obrÃ¡zky *.JPG
   \pdfinfo{
     /Author (Petr Gotthard)
     /CreationDate (D:20000615)
@@ -36,12 +37,12 @@
   \pdfcompresslevel=9
 \fi
 
-% O=lichá, E=sudá
+% O=lichÃ¡, E=sudÃ¡
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 \fancyhead{} % clear all header fields
-\fancyhead[RE,LO]{Velká kniha her}
+\fancyhead[RE,LO]{VelkÃ¡ kniha her}
 \fancyhead[LE,RO]{\leftmark}
 \fancyfoot{} % clear all footer fields
 \fancyfoot[LE,RO]{\thepage}
@@ -62,7 +63,7 @@
  \fontfamily{phv}%
  \fontsize{2 cm}{2.4 cm}%
  \bfseries%
- Velká kniha
+ VelkÃ¡ kniha
 }\\[5mm]
 {
  \fontfamily{phv}%
@@ -72,15 +73,15 @@
 }\\[8.5cm]
 }
 
-Tento dokument byl sestaven z údajù soustøedìnıch na serveru
-Informaèník do \today. Kniha se stále rozrùstá, její nejaktuálnìj¹í
-podobu naleznete v¾dy na
+Tento dokument byl sestaven z ÃºdajÅ¯ soustÅ™edÄ›nÃ½ch na serveru
+InformaÄnÃ­k do \today. Kniha se stÃ¡le rozrÅ¯stÃ¡, jejÃ­ nejaktuÃ¡lnÄ›jÅ¡Ã­
+podobu naleznete vÅ¾dy na
 {\tt http://www.informacnik.cz}.
-I vy mù¾ete pøispìt! Své pøíspìvky, námìty a pøipomínky posílejte na adresu
+I vy mÅ¯Å¾ete pÅ™ispÄ›t! SvÃ© pÅ™Ã­spÄ›vky, nÃ¡mÄ›ty a pÅ™ipomÃ­nky posÃ­lejte na adresu
 {\tt petr.gotthard@centrum.cz}.
-Tento dokument mù¾ete v jeho nezmìnìné podobì volnì pou¾ívat i dále ¹íøit. 
-Komerèní vyu¾ití je v¹ak zakázáno.
-Dokument je dodáván bez jakékoli záruky. Pou¾íváte jej na vlastní
+Tento dokument mÅ¯Å¾ete v jeho nezmÄ›nÄ›nÃ© podobÄ› volnÄ› pouÅ¾Ã­vat i dÃ¡le Å¡Ã­Å™it. 
+KomerÄnÃ­ vyuÅ¾itÃ­ je vÅ¡ak zakÃ¡zÃ¡no.
+Dokument je dodÃ¡vÃ¡n bez jakÃ©koli zÃ¡ruky. PouÅ¾Ã­vÃ¡te jej na vlastnÃ­
 riziko.\\[1 cm]
 
 {\centering
@@ -135,11 +136,11 @@ Brno 1995 -- 2001\\
  {\em Napsal #1.}%
 }
 
-\chapter{Hry a soutì¾e}
+\chapter{Hry a soutÄ›Å¾e}
 
-Na vzniku této kapitoly se podílela dlouhá øada osob. Pøehled pou¾itıch
-publikací naleznete na stranì~\pageref{sec-litera}. Osobní podìkování si 
-zaslou¾í
+Na vzniku tÃ©to kapitoly se podÃ­lela dlouhÃ¡ Å™ada osob. PÅ™ehled pouÅ¾itÃ½ch
+publikacÃ­ naleznete na stranÄ›~\pageref{sec-litera}. OsobnÃ­ podÄ›kovÃ¡nÃ­ si 
+zaslouÅ¾Ã­
 
 \begin{quote}
  \tt
@@ -151,7 +152,7 @@ zaslou¾í
  \fontfamily{ptm}\fontsize{7}{8.4}\selectfont
  \include{hry}
 }
-\chapter{Pøílohy}
+\chapter{PÅ™Ã­lohy}
 \cleardoublepage
 {
  \fontfamily{ptm}\fontsize{7}{8.4}\selectfont
