@@ -34,8 +34,10 @@
 
 % O=lichá, E=sudá
 \usepackage{fancyhdr}
-\pagestyle{fancy}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+\addto\captionsczech{\renewcommand{\chaptername}{Část}} % Rename chapter
+
 \fancyhead{} % clear all header fields
 \fancyhead[RE,LO]{Velká kniha her}
 \fancyhead[LE,RO]{\leftmark}
