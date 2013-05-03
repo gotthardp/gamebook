@@ -44,10 +44,13 @@
 \renewcommand{\headrulewidth}{0.4pt} % top horizontal line
 \renewcommand{\footrulewidth}{0pt} % bottom horizontal line
 
+\setlength{\marginparwidth}{0pt} % More space, no margin comments
+
 \vbadness=10000  % I don't want to hear about overfull vboxes
 
 \begin{document}
-\titlepage
+\pagestyle{empty}%disable styles for first pages
+%\titlepage
 
 {\raggedleft
 \includegraphics{inflogo}\\[3 cm]
@@ -67,7 +70,10 @@
  HER
 }\\[8.5cm]
 }
-
+\cleardoublepage %start on right page
+\pagestyle{fancy} %on this page, fancy headers are in place
+~
+\vfill
 Tento dokument byl sestaven z údajů soustředěných na serveru
 Informačník do \today. Kniha se stále rozrůstá, její nejaktuálnější
 podobu naleznete vždy na
@@ -147,6 +153,7 @@ zaslouží
 \cleardoublepage
 {
  \fontfamily{ptm}\fontsize{7}{8.4}\selectfont
+ \addtolength{\columnsep}{4pt}
  \include{hry}
 }
 \chapter{Přílohy}
