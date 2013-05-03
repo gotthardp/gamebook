@@ -2,22 +2,21 @@
 % Codepage UTF-8
 
 %\nofiles
-\documentclass[A4paper,10pt,openany,oneside]{book}
+\documentclass[A5paper,8pt,openany,twoside]{book}
 \author{Petr Gotthard}
 \title{Velká kniha her}
 
-
+\usepackage[a5paper,top=2cm,outer=2cm,inner=1.75cm,bottom=2.5cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8x]{inputenc}
 \usepackage[czech]{babel}
-\usepackage[a4paper]{geometry}
 
 \usepackage{multicol}
-%Define counters for games and appendices
+%define columns for A5 version
 \newcounter{columnsgames}
 \newcounter{columnsthindata}
-\setcounter{columnsgames}{3}
-\setcounter{columnsthindata}{4}
+\setcounter{columnsgames}{2}
+\setcounter{columnsthindata}{3}
 
 \usepackage{ifthen}
 \usepackage[toc]{multitoc}
@@ -96,7 +95,9 @@ riziko.\\[1 cm]
 
 {\centering
 Sestavil Petr Gotthard\\
-Brno 1995 -- 2013\\
+Brno 1995 -- 2001\\
+A5 verzi vysázel Jakub Lucký
+\\
 }
 
 \cleardoublepage
