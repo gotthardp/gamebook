@@ -25,9 +25,19 @@ prvedecka.tex prviteze.tex zaprameny.tex
 
 	pdflatex gamebook.tex
 
+gamebook-a5.pdf: gamebook-a5.tex hry.tex prdetektiv.tex prhadanky.tex \
+prislovi.tex prjazyk.tex prkouzla.tex prkvizy.tex prlogika.tex \
+prvedecka.tex prviteze.tex zaprameny.tex
+
+	pdflatex gamebook-a5.tex
+
 clean:
 	rm -f *.aux
 	rm -f gamebook.log
 	rm -f gamebook.dvi
 	rm -f gamebook.ps
 	rm -f gamebook.pdf
+	rm -f gamebook-a5.log
+	rm -f gamebook-a5.dvi
+	rm -f gamebook-a5.ps
+	rm -f gamebook-a5.pdf

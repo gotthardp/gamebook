@@ -1,62 +1,62 @@
 \select@language {czech}
-\contentsline {chapter}{\numberline {1}Hry a sout\v e\v ze}{5}
-\contentsline {section}{\numberline {1.1}B\v ehac\IeC {\'\i } hry}{7}
-\contentsline {section}{\numberline {1.2}Biologick\'e hry}{17}
-\contentsline {section}{\numberline {1.3}Bojov\'e hry}{18}
-\contentsline {section}{\numberline {1.4}Deskov\'e a stoln\IeC {\'\i } hry}{27}
-\contentsline {section}{\numberline {1.5}Do vlaku}{30}
-\contentsline {section}{\numberline {1.6}H\'azen\IeC {\'\i } kam\IeC {\'\i }nky}{31}
-\contentsline {section}{\numberline {1.7}H\'azen\IeC {\'\i } m\IeC {\'\i }\v cem}{33}
-\contentsline {section}{\numberline {1.8}H\'azen\IeC {\'\i } \v sipkami}{44}
-\contentsline {section}{\numberline {1.9}H\'azen\IeC {\'\i } v\v s\IeC {\'\i }m mo\v zn\'ym}{47}
-\contentsline {section}{\numberline {1.10}Hereck\'e hry}{49}
-\contentsline {section}{\numberline {1.11}Honi\v cky}{53}
-\contentsline {section}{\numberline {1.12}Inteligentn\IeC {\'\i } hry}{56}
-\contentsline {section}{\numberline {1.13}Kuli\v ckov\'e hry}{64}
-\contentsline {section}{\numberline {1.14}Na plavidlech}{65}
-\contentsline {section}{\numberline {1.15}Na pochodu}{67}
-\contentsline {section}{\numberline {1.16}No\v cn\IeC {\'\i } hry}{70}
-\contentsline {section}{\numberline {1.17}Obratnostn\IeC {\'\i } hry}{73}
-\contentsline {section}{\numberline {1.18}Odhadovac\IeC {\'\i } hry}{81}
-\contentsline {section}{\numberline {1.19}Ojedin\v el\'e hry}{82}
-\contentsline {section}{\numberline {1.20}Orienta\v cn\IeC {\'\i } hry}{91}
-\contentsline {section}{\numberline {1.21}Pap\IeC {\'\i }rkov\'e hry}{96}
-\contentsline {section}{\numberline {1.22}Poslepu}{100}
-\contentsline {section}{\numberline {1.23}Post\v rehov\'e hry}{106}
-\contentsline {section}{\numberline {1.24}Pou\v tov\'e atrakce}{114}
-\contentsline {section}{\numberline {1.25}Praktick\'e hry}{117}
-\contentsline {section}{\numberline {1.26}Pro pobaven\IeC {\'\i }}{119}
-\contentsline {section}{\numberline {1.27}Psychologick\'e hry}{122}
-\contentsline {section}{\numberline {1.28}Slovn\IeC {\'\i } hry}{124}
-\contentsline {section}{\numberline {1.29}Smyslov\'e hry}{129}
-\contentsline {section}{\numberline {1.30}Sportovn\IeC {\'\i } hry}{133}
-\contentsline {section}{\numberline {1.31}Tane\v cn\IeC {\'\i } hry}{135}
-\contentsline {section}{\numberline {1.32}Um\v eleck\'e hry}{137}
-\contentsline {section}{\numberline {1.33}\'Upolov\'e hry}{139}
-\contentsline {section}{\numberline {1.34}V\v edomostn\IeC {\'\i } hry}{144}
-\contentsline {section}{\numberline {1.35}Vodn\IeC {\'\i } b\v eh\'an\IeC {\'\i }}{146}
-\contentsline {section}{\numberline {1.36}Vodn\IeC {\'\i } hry}{147}
-\contentsline {section}{\numberline {1.37}V\'ylety pro p\v red\v skol\'aky}{151}
-\contentsline {section}{\numberline {1.38}Zimn\IeC {\'\i } hry}{153}
-\contentsline {section}{\numberline {1.39}Zimn\IeC {\'\i } sportov\'an\IeC {\'\i }}{155}
-\contentsline {section}{\numberline {1.40}Zru\v cnostn\IeC {\'\i } hry}{157}
-\contentsline {chapter}{\numberline {2}P\v r\IeC {\'\i }lohy}{159}
-\contentsline {section}{\numberline {2.1}Lidov\'e h\'adanky}{161}
-\contentsline {section}{\numberline {2.2}Staro\v cesk\'a p\v r\IeC {\'\i }slov\IeC {\'\i }}{166}
-\contentsline {section}{\numberline {2.3}V\v edeck\'a p\v r\IeC {\'\i }slov\IeC {\'\i }}{169}
-\contentsline {section}{\numberline {2.4}P\v r\IeC {\'\i }b\v ehy tak\v rka detektivn\IeC {\'\i }}{173}
-\contentsline {section}{\numberline {2.5}Matematika a logika}{174}
-\contentsline {section}{\numberline {2.6}Kv\IeC {\'\i }zov\'e ot\'azky}{180}
-\contentsline {section}{\numberline {2.7}Kouzlen\IeC {\'\i } a \v carov\'an\IeC {\'\i }}{181}
-\contentsline {subsection}{\numberline {2.7.1}Pom\r ucky}{181}
-\contentsline {subsection}{\numberline {2.7.2}Kouzla humorn\'a}{181}
-\contentsline {subsection}{\numberline {2.7.3}Kouzla v\'a\v zn\'a}{181}
-\contentsline {section}{\numberline {2.8}Cvi\v cen\IeC {\'\i } \v re\v ci}{184}
-\contentsline {subsection}{\numberline {2.8.1}Jazykolamy}{184}
-\contentsline {subsection}{\numberline {2.8.2}V\'yslovnost}{184}
-\contentsline {section}{\numberline {2.9}V\IeC {\'\i }te, \v ze?}{185}
-\contentsline {subsection}{\numberline {2.9.1}Botanika}{185}
-\contentsline {subsection}{\numberline {2.9.2}\v Clov\v ek}{185}
-\contentsline {subsection}{\numberline {2.9.3}Ostatn\IeC {\'\i }}{185}
-\contentsline {subsection}{\numberline {2.9.4}Zem\v epis}{185}
-\contentsline {subsection}{\numberline {2.9.5}Zoologie}{185}
+\contentsline {chapter}{\numberline {1}Hry a sout\IeC {\v e}\IeC {\v z}e}{4}
+\contentsline {section}{\numberline {1.1}B\IeC {\v e}hac\IeC {\'\i } hry}{5}
+\contentsline {section}{\numberline {1.2}Biologick\IeC {\'e} hry}{17}
+\contentsline {section}{\numberline {1.3}Bojov\IeC {\'e} hry}{18}
+\contentsline {section}{\numberline {1.4}Deskov\IeC {\'e} a stoln\IeC {\'\i } hry}{30}
+\contentsline {section}{\numberline {1.5}Do vlaku}{34}
+\contentsline {section}{\numberline {1.6}H\IeC {\'a}zen\IeC {\'\i } kam\IeC {\'\i }nky}{35}
+\contentsline {section}{\numberline {1.7}H\IeC {\'a}zen\IeC {\'\i } m\IeC {\'\i }\IeC {\v c}em}{38}
+\contentsline {section}{\numberline {1.8}H\IeC {\'a}zen\IeC {\'\i } \IeC {\v s}ipkami}{52}
+\contentsline {section}{\numberline {1.9}H\IeC {\'a}zen\IeC {\'\i } v\IeC {\v s}\IeC {\'\i }m mo\IeC {\v z}n\IeC {\'y}m}{56}
+\contentsline {section}{\numberline {1.10}Hereck\IeC {\'e} hry}{59}
+\contentsline {section}{\numberline {1.11}Honi\IeC {\v c}ky}{64}
+\contentsline {section}{\numberline {1.12}Inteligentn\IeC {\'\i } hry}{68}
+\contentsline {section}{\numberline {1.13}Kuli\IeC {\v c}kov\IeC {\'e} hry}{77}
+\contentsline {section}{\numberline {1.14}Na plavidlech}{78}
+\contentsline {section}{\numberline {1.15}Na pochodu}{80}
+\contentsline {section}{\numberline {1.16}No\IeC {\v c}n\IeC {\'\i } hry}{84}
+\contentsline {section}{\numberline {1.17}Obratnostn\IeC {\'\i } hry}{88}
+\contentsline {section}{\numberline {1.18}Odhadovac\IeC {\'\i } hry}{98}
+\contentsline {section}{\numberline {1.19}Ojedin\IeC {\v e}l\IeC {\'e} hry}{100}
+\contentsline {section}{\numberline {1.20}Orienta\IeC {\v c}n\IeC {\'\i } hry}{112}
+\contentsline {section}{\numberline {1.21}Pap\IeC {\'\i }rkov\IeC {\'e} hry}{118}
+\contentsline {section}{\numberline {1.22}Poslepu}{123}
+\contentsline {section}{\numberline {1.23}Post\IeC {\v r}ehov\IeC {\'e} hry}{131}
+\contentsline {section}{\numberline {1.24}Pou\IeC {\v t}ov\IeC {\'e} atrakce}{141}
+\contentsline {section}{\numberline {1.25}Praktick\IeC {\'e} hry}{144}
+\contentsline {section}{\numberline {1.26}Pro pobaven\IeC {\'\i }}{147}
+\contentsline {section}{\numberline {1.27}Psychologick\IeC {\'e} hry}{150}
+\contentsline {section}{\numberline {1.28}Slovn\IeC {\'\i } hry}{153}
+\contentsline {section}{\numberline {1.29}Smyslov\IeC {\'e} hry}{159}
+\contentsline {section}{\numberline {1.30}Sportovn\IeC {\'\i } hry}{164}
+\contentsline {section}{\numberline {1.31}Tane\IeC {\v c}n\IeC {\'\i } hry}{166}
+\contentsline {section}{\numberline {1.32}Um\IeC {\v e}leck\IeC {\'e} hry}{168}
+\contentsline {section}{\numberline {1.33}\IeC {\'U}polov\IeC {\'e} hry}{171}
+\contentsline {section}{\numberline {1.34}V\IeC {\v e}domostn\IeC {\'\i } hry}{177}
+\contentsline {section}{\numberline {1.35}Vodn\IeC {\'\i } b\IeC {\v e}h\IeC {\'a}n\IeC {\'\i }}{179}
+\contentsline {section}{\numberline {1.36}Vodn\IeC {\'\i } hry}{180}
+\contentsline {section}{\numberline {1.37}V\IeC {\'y}lety pro p\IeC {\v r}ed\IeC {\v s}kol\IeC {\'a}ky}{185}
+\contentsline {section}{\numberline {1.38}Zimn\IeC {\'\i } hry}{188}
+\contentsline {section}{\numberline {1.39}Zimn\IeC {\'\i } sportov\IeC {\'a}n\IeC {\'\i }}{190}
+\contentsline {section}{\numberline {1.40}Zru\IeC {\v c}nostn\IeC {\'\i } hry}{192}
+\contentsline {chapter}{\numberline {2}P\IeC {\v r}\IeC {\'\i }lohy}{194}
+\contentsline {section}{\numberline {2.1}Lidov\IeC {\'e} h\IeC {\'a}danky}{195}
+\contentsline {section}{\numberline {2.2}Staro\IeC {\v c}esk\IeC {\'a} p\IeC {\v r}\IeC {\'\i }slov\IeC {\'\i }}{200}
+\contentsline {section}{\numberline {2.3}V\IeC {\v e}deck\IeC {\'a} p\IeC {\v r}\IeC {\'\i }slov\IeC {\'\i }}{203}
+\contentsline {section}{\numberline {2.4}P\IeC {\v r}\IeC {\'\i }b\IeC {\v e}hy tak\IeC {\v r}ka detektivn\IeC {\'\i }}{207}
+\contentsline {section}{\numberline {2.5}Matematika a logika}{209}
+\contentsline {section}{\numberline {2.6}Kv\IeC {\'\i }zov\IeC {\'e} ot\IeC {\'a}zky}{216}
+\contentsline {section}{\numberline {2.7}Kouzlen\IeC {\'\i } a \IeC {\v c}arov\IeC {\'a}n\IeC {\'\i }}{218}
+\contentsline {subsection}{\numberline {2.7.1}Pom\IeC {\r u}cky}{218}
+\contentsline {subsection}{\numberline {2.7.2}Kouzla humorn\IeC {\'a}}{218}
+\contentsline {subsection}{\numberline {2.7.3}Kouzla v\IeC {\'a}\IeC {\v z}n\IeC {\'a}}{218}
+\contentsline {section}{\numberline {2.8}Cvi\IeC {\v c}en\IeC {\'\i } \IeC {\v r}e\IeC {\v c}i}{222}
+\contentsline {subsection}{\numberline {2.8.1}Jazykolamy}{222}
+\contentsline {subsection}{\numberline {2.8.2}V\IeC {\'y}slovnost}{222}
+\contentsline {section}{\numberline {2.9}V\IeC {\'\i }te, \IeC {\v z}e?}{223}
+\contentsline {subsection}{\numberline {2.9.1}Botanika}{223}
+\contentsline {subsection}{\numberline {2.9.2}\IeC {\v C}lov\IeC {\v e}k}{223}
+\contentsline {subsection}{\numberline {2.9.3}Ostatn\IeC {\'\i }}{223}
+\contentsline {subsection}{\numberline {2.9.4}Zem\IeC {\v e}pis}{223}
+\contentsline {subsection}{\numberline {2.9.5}Zoologie}{223}

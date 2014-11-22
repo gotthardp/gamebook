@@ -1,0 +1,5 @@
+gamebook.toc
+*.un~
+gamebook.pdf
+*.aux
+*.log
